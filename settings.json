@@ -8,7 +8,7 @@
   "server": {
     "ip": "TsumivaFloodServer.aternos.me",
     "port": 48698,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Tsumiva_Flood"
     },
     "anti-afk": {
       "enabled": true,
