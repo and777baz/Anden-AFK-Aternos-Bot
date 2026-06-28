@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Anden_with_bot",
-    "password": "",
-    "type": "offline"
+    "password": "Tsumiva_Flood",
+    "type": "online"
   },
   "server": {
     "ip": "TsumivaFloodServer.aternos.me",
