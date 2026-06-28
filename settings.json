@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Anden_with_bot",
     "password": "Tsumiva_Flood",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "TsumivaFloodServer.aternos.me",
